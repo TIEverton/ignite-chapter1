@@ -50,7 +50,7 @@ $ yarn
 $ yarn dev
 ```
 
-You can now access [`localhost:8080`](http://localhost:3000) from your browser.
+You can now access [`localhost:8080`](http://localhost:8080) from your browser.
 
 ---
 
