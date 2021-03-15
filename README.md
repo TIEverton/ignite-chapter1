@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="ignite" title="ignite" src=".github/background.png" />
+  <img alt="ignite" title="ignite" src=".github/background-git.png" />
 </h1>
 <h1 align="center">
   Chapter 01
